@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a Bachelor's Degree in Computer and Automation Engineering on 21/07/2021 at the Politecnico di Bari! I'm currently a student enrolled in a master's degree program in Telecommunications Engineering in Cyber Security.
 <!--
 **EnricoBoffetti/EnricoBoffetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
